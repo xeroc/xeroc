@@ -1,6 +1,7 @@
 name: Update stats
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
