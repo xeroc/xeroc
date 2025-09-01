@@ -44,6 +44,7 @@ Saturday     13 commits     ░░░░░░░░░░░░░░░░░�
 Sunday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 ```
 
+![](https://github-profile-trophy.vercel.app/?username=xeroc&theme=onedark)
 
 <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
