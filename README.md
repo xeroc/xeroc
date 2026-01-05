@@ -2,45 +2,49 @@ Hi there
 
 This is the place where I opensource stuff and break things 🤣
 
-* 🔭 I’m currently working on something cool 😉
-* 🌱 I’m currently mostly doing Rust and TypeScript
-* 💬 Ask me about anything related to Javascript/Typescript/Python or Svelte/FastApi
-* ⚡ Fun fact: I ❤️ my trombone
-* ⛓  Working with fast, low-latency Blockchain technologies since 2011
+[![](https://contribute.so/api/badge/github/xeroc)](https://contribute.so/github/xeroc)
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently mostly doing Rust and TypeScript
+- 💬 Ask me about anything related to Javascript/Typescript/Python or Svelte/FastApi
+- ⚡ Fun fact: I ❤️ my trombone
+- ⛓ Working with fast, low-latency Blockchain technologies since 2011
 
 **🏷 Remarkable**
-* **4x Exits**
-* Operating Server (clusters) since 2007
-* **26+ projects**
-* Ex-**board member** of 3 foundations
-* Member Superteam (Germany)
-* Produced **>500Mio blocks** across 16+ different blockchains
 
-**🐱 My Github Data** 
+- **4x Exits**
+- Operating Server (clusters) since 2007
+- **26+ projects**
+- Ex-**board member** of 3 foundations
+- Member Superteam (Germany)
+- Produced **>500Mio blocks** across 16+ different blockchains
 
-* 🏆 4970 Contributions this year
-* 💼 Open to Hire
-* 📜 >30 Public Repositories
-* 🔑 >90 Private Repositories (on Github alone)
- 
-**I'm an Early 🐤** 
+**🐱 My Github Data**
+
+- 🏆 4970 Contributions this year
+- 💼 Open to Hire
+- 📜 >30 Public Repositories
+- 🔑 >90 Private Repositories (on Github alone)
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    564 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
-🌆 Daytime    952 commits    ███████████████░░░░░░░░░░   60.25% 
-🌃 Evening    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+🌞 Morning    564 commits    █████████░░░░░░░░░░░░░░░░   35.7%
+🌆 Daytime    952 commits    ███████████████░░░░░░░░░░   60.25%
+🌃 Evening    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday       364 commits    █████░░░░░░░░░░░░░░░░░░░░   23.04% 
-Tuesday      415 commits    ██████░░░░░░░░░░░░░░░░░░░   26.27% 
-Wednesday    321 commits    █████░░░░░░░░░░░░░░░░░░░░   20.32% 
-Thursday     252 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
-Friday       201 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
+Monday       364 commits    █████░░░░░░░░░░░░░░░░░░░░   23.04%
+Tuesday      415 commits    ██████░░░░░░░░░░░░░░░░░░░   26.27%
+Wednesday    321 commits    █████░░░░░░░░░░░░░░░░░░░░   20.32%
+Thursday     252 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.95%
+Friday       201 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
+Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 Sunday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 ```
 
@@ -2348,5 +2352,7 @@ b4jyBLoXmDRnPrUmwFDOsQw21QAqOnzb+52oTlQs+CgBN8izKgwIKK5yQbCNHYo9
 nbO57fjQWpdX0GQAJFXoynnOnOxoE3hJkJ0wJoo90WDJVQZhHpfFsg==
 =zE6U
 -----END PGP PUBLIC KEY BLOCK-----
+
 ```
 </details>
+```
