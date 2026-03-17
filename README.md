@@ -32,12 +32,14 @@
 
 ### **🏆 Notable Achievements**
 
-- **5 Successful Exits:** Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian, relay.md
-- Operating up to 60 servers for various projects: [HashiCorp](https://www.hashicorp.com) Clusters with [nomad](https://www.nomadproject.io/), [consul](https://consul.io) and [vault](https://developer.hashicorp.com/vault)
-- **26+ projects**
-- Ex-**board member** of 3 foundations
-- Member Superteam (Germany)
-- Produced **>500Mio blocks** across 16+ different blockchains
+- 💲 **5 Successful Exits:** Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian, relay.md
+- 🖥️Operating up to 60 servers for various projects: [HashiCorp](https://www.hashicorp.com) Clusters with [nomad](https://www.nomadproject.io/), [consul](https://consul.io) and [vault](https://developer.hashicorp.com/vault)
+- 🎖️**26+ projects**
+- 🏭 Ex-**board member** of 3 foundations
+- 🦸 Member Superteam (Germany)
+- ⛓️Produced **>500Mio blocks** across 16+ different blockchains
+- 🎯 Colosseum Radar: Interview selection (top 200/1,800+ submissions)
+- 🚀 Built Solana platform MVP for recurring payments in less than 3 weeks
 
 ### **🐱 My Github Data**
 
@@ -84,10 +86,10 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 
 ### 💼 Currently Working on
 
-- **CEO & Founder** @ [ChainSquad GmbH](https://chainsquad.com) – Blockchain & Web3 consultancy (2016-present)
-- **Founder** @ Tributary.so – Automated recurring payments on Solana (2025-present)
-- **Founder** @ Chaoscraft.dev – Collective AI-powered code creation experiment (2025-present)
-- **Founder** @ Polycode – Multi-agent software development automation (2025-present)
+- 👑 **CEO & Founder** @ [ChainSquad GmbH](https://chainsquad.com) – Blockchain & Web3 consultancy (2016-present)
+- 🙋 **Founder** @ Tributary.so – Automated recurring payments on Solana (2025-present)
+- 🙋 **Founder** @ Chaoscraft.dev – Collective AI-powered code creation experiment (2025-present)
+- 🙋 **Founder** @ Polycode – Multi-agent software development automation (2025-present)
 
 ### 🚀 Current Projects
 
