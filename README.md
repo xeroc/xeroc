@@ -84,25 +84,19 @@ Thesis: _Digital Communications for Low Latency and Applications for Const. Enve
 Friedrich-Alexander-Universität Erlangen-Nürnberg  
 Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 
-### 💼 Currently Working on
-
-- 👑 **CEO & Founder** @ [ChainSquad GmbH](https://chainsquad.com) – Blockchain & Web3 consultancy (2016-present)
-- 🙋 **Founder** @ Tributary.so – Automated recurring payments on Solana (2025-present)
-- 🙋 **Founder** @ Chaoscraft.dev – Collective AI-powered code creation experiment (2025-present)
-- 🙋 **Founder** @ Polycode – Multi-agent software development automation (2025-present)
-
 ### 🚀 Current Projects
 
+- 🤖 **[polycod.ing](https://polycod.ing)** – Automate software development with AI-powered workflows.
 - 💰 **[tributary.so](https://tributary.so)** – Recurring payments protocol on Solana (subscriptions, milestones, pay-as-you-go)
 - 🤖 **[chaoscraft.dev](https://chaoscraft.dev)** – Pay $1, propose any change to site via AI agents
-- 🦋 **[Lucky Swaps](https://luckyswaps.com)** – Jupiter swaps with multiplier
-- 🎲 **[mash.trade](https://mash.trade)** – Prediction markets and sports betting (forked from Drift)
 - 💸 **[allowly.app](https://allowly.app)** – Pocket money for kids and agents
 - 🪣 **[contribute.so](https://contribute.so)** – Fundraising made simple for creators using solan
 - 🤖 **[Lando](https://lando.tributary.so)**: let agents issue invoices with a simple payment string and skills
+- 🦋 **[Lucky Swaps](https://luckyswaps.com)** – Jupiter swaps with multiplier
 
 ### 🚀 Legacy Projects
 
+- 🎲 **[mash.fun](https://mash.fun)** – Prediction markets and sports betting (forked from Drift)
 - 🔗 **[repo.trade](https://repo.trade)** – Token launch pad for GitHub repositories
 - 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members
 - 📶 **streemian.com** – Automate your voting on the social media blockchain Steem
