@@ -86,7 +86,7 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 
 ### 🚀 Current Projects
 
-- 🤖 **[polycod.ing](https://polycod.ing)** – Automate software development with AI-powered workflows.
+- 🤖 **[polycode.dev](https://polycode.dev)** – Automate software development with AI-powered workflows.
 - 💰 **[tributary.so](https://tributary.so)** – Recurring payments protocol on Solana (subscriptions, milestones, pay-as-you-go)
 - 🤖 **[chaoscraft.dev](https://chaoscraft.dev)** – Pay $1, propose any change to site via AI agents
 - 💸 **[allowly.app](https://allowly.app)** – Pocket money for kids and agents
@@ -98,10 +98,11 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 
 - 🎲 **[mash.fun](https://mash.fun)** – Prediction markets and sports betting (forked from Drift)
 - 🔗 **[repo.trade](https://repo.trade)** – Token launch pad for GitHub repositories
-- 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members
+- 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members - sold
 - 📶 **streemian.com** – Automate your voting on the social media blockchain Steem
-- 🚪 **[bitshares.eu](https://bitshares.eu)** - Onboarding into the bitshares ecosystem
-- 📈 **[uptick.rocks](https://uptick.rocks)** - Operate an RPC node for BitShares blockchain
+- 🚪 **bitshares.eu** - Onboarding into the bitshares ecosystem
+- 📓 **piston.rocks** - Operate the main entry RPC to the Steemit Blockchain
+- 📈 **uptick.rocks** - Operate an RPC node for BitShares blockchain
 
 ### 🔗 Blockchain & Web3 Expertise
 
