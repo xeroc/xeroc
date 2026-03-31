@@ -32,7 +32,7 @@
 
 ### **🏆 Notable Achievements**
 
-- 💲 **5 Successful Exits:** Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian, relay.md
+- 💲 **5 Successful Exits²:** Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian, relay.md
 - 🖥️Operating up to 60 servers for various projects: [HashiCorp](https://www.hashicorp.com) Clusters with [nomad](https://www.nomadproject.io/), [consul](https://consul.io) and [vault](https://developer.hashicorp.com/vault)
 - 🎖️**26+ projects**
 - 🏭 Ex-**board member** of 3 foundations
