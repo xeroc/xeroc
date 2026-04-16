@@ -92,12 +92,12 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 - 💸 **[allowly.app](https://allowly.app)** – Pocket money for kids and agents
 - 🪣 **[contribute.so](https://contribute.so)** – Fundraising made simple for creators using solan
 - 🤖 **[Lando](https://lando.tributary.so)**: let agents issue invoices with a simple payment string and skills
-- 🦋 **[Lucky Swaps](https://luckyswaps.com)** – Jupiter swaps with multiplier
 
 ### 🚀 Legacy Projects
 
 - 🔗 **[repo.trade](https://repo.trade)** – Token launch pad for GitHub repositories
 - 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members - sold
+- 🦋 **[LuckySwap](https://luckyswap.xyz)** – Jupiter swaps with multiplier
 - 📶 **streemian.com** – Automate your voting on the social media blockchain Steem
 - 🚪 **bitshares.eu** - Onboarding into the bitshares ecosystem
 - 📓 **piston.rocks** - Operate the main entry RPC to the Steemit Blockchain
@@ -161,7 +161,6 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 **DeFi & Payments:**
 
 - **[tributary](https://github.com/xeroc/tributary)** – Solana recurring payments protocol
-- **[luckyswaps](https://github.com/xeroc/luckyswaps)** – Jupiter swap multiplier
 - **[orangetulip](https://github.com/xeroc/orangetulip)** – Real-world asset DEX
 - **[stakemachine](https://github.com/xeroc/stakemachine)** – Automated DEX trading
 - **[allowly.app](https://github.com/xeroc/allowly)** – Pocket money for kids/agents
