@@ -96,7 +96,6 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 
 ### 🚀 Legacy Projects
 
-- 🎲 **[mash.fun](https://mash.fun)** – Prediction markets and sports betting (forked from Drift)
 - 🔗 **[repo.trade](https://repo.trade)** – Token launch pad for GitHub repositories
 - 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members - sold
 - 📶 **streemian.com** – Automate your voting on the social media blockchain Steem
