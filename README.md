@@ -22,7 +22,9 @@
 - ⚡ Fun fact: I ❤️ my trombone
 - ⛓ Working with fast, low-latency Blockchain technologies since 2011
 
-### 📫 How to Reach Me
+---
+
+## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-schuh-phd-217b55101/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian@chainsquad.com)
@@ -30,71 +32,105 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xeroc)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxer0c&style=for-the-badge)](https://x.com/xer0c)
 
-### **🏆 Notable Achievements**
+---
 
-- 💲 **5 Successful Exits²:** Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian, relay.md
-- 🖥️Operating up to 60 servers for various projects: [HashiCorp](https://www.hashicorp.com) Clusters with [nomad](https://www.nomadproject.io/), [consul](https://consul.io) and [vault](https://developer.hashicorp.com/vault)
-- 🎖️**26+ projects**
-- 🏭 Ex-**board member** of 3 foundations
-- 🦸 Member Superteam (Germany)
-- ⛓️Produced **>500Mio blocks** across 16+ different blockchains
-- 🎯 Colosseum Radar: Interview selection (top 200/1,800+ submissions)
-- 🚀 Built Solana platform MVP for recurring payments in less than 3 weeks
+## **🏆 Notable Achievements**
 
-### **🐱 My Github Data**
+<p>
+  <img src="https://img.shields.io/badge/💰_Exits-5_successful-2E7D32?style=flat-square" alt="5 successful exits"/>
+  <img src="https://img.shields.io/badge/⛓️_Blocks_Produced->500Mio-9945FF?style=flat-square" alt="500M+ blocks produced"/>
+  <img src="https://img.shields.io/badge/📦_Projects-26+-181717?style=flat-square" alt="26+ projects delivered"/>
+  <img src="https://img.shields.io/badge/🏭_Foundation_Boards-3-0066CC?style=flat-square" alt="3 foundation boards"/>
+  <img src="https://img.shields.io/badge/🦸_SuperteamDE-Member-FF5722?style=flat-square" alt="SuperteamDE member"/>
+  <img src="https://img.shields.io/badge/🎯_Colosseum_Radar-Top_200/1800+-FFD700?style=flat-square" alt="Colosseum Radar selection"/>
+</p>
 
-- 🏆 4970 Contributions this year
-- 💼 Open to Hire
-- 📜 >30 Public Repositories
-- 🔑 >90 Private Repositories (on Github alone)
+| Achievement                  | Details                                                                                                             |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| 💲 **5 Successful Exits**    | Steemit (Lead Python Dev), MakerDAO (Advisor), Cryptonomex (Tech Lead), Streemian (Solo-MicroSaaS), relay.md (SaaS) |
+| ⛓️ **>500M Blocks Produced** | Across 16+ different blockchains including BitShares, Steem, Hive, Peerplays                                        |
+| 🏭 **3 Foundation Boards**   | PeerPlays, BitShares, Flux Capa                                                                                     |
+| 🖥️ **60+ Servers**           | HashiCorp clusters with Nomad, Consul, Vault                                                                        |
+| 🚀 **3-Week MVP**            | Built Tributary.so recurring payments platform on Solana                                                            |
+| 🎯 **Colosseum Radar**       | Interview selection (top 200/1,800+ submissions)                                                                    |
+| 🎖️ **Solana Security #2**    | Graduate                                                                                                            |
+| 📜 **D-U-N-S**               | 314085344                                                                                                           |
+| 🏛️ **First DAO Employee**    | First to ever be hired and paid by a blockchain directly                                                            |
+| 📝 **>10 Committee Roles**   | Steem, Hive, BitShares, Peerplays, Obelisk                                                                          |
 
-**I'm an Early 🐤**
+---
 
-```text
-🌞 Morning    564 commits    █████████░░░░░░░░░░░░░░░░
-🌆 Daytime    952 commits    ███████████████░░░░░░░░░░
-🌃 Evening    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░
+## 🎓 Education
 
-```
+<table>
+  <tr>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Thesis</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td><strong>Dr.-Ing.</strong><br>Electrical Engineering, Electronics & Information Technology</td>
+    <td>Friedrich-Alexander-Universität Erlangen-Nürnberg<br><em>2015</em></td>
+    <td><em>Digital Communications for Low Latency and Applications for Const. Envelope Signalling</em></td>
+    <td>Very Good</td>
+  </tr>
+  <tr>
+    <td><strong>Dipl.-Ing.</strong><br>Electrical Engineering, Electronics & Information Technology</td>
+    <td>Friedrich-Alexander-Universität Erlangen-Nürnberg<br><em>2005 – 2010</em></td>
+    <td><em>Statistical Analysis and Evaluation of MIMO Radio Channel Measurements</em></td>
+    <td>Very Good</td>
+  </tr>
+</table>
 
-📅 **I'm Most Productive on Tuesday**
+---
 
-```text
-Monday       364 commits    ███████████████░░░░░░░░░
-Tuesday      415 commits    ████████████████░░░░░░░░
-Wednesday    321 commits    ███████████████░░░░░░░░░
-Thursday     252 commits    ██████████████░░░░░░░░░░
-Friday       201 commits    █████████████░░░░░░░░░░░
-Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░
-Sunday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░
-```
+## 🚀 Active Projects
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=xeroc&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xeroc&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeroc&layout=compact&theme=dark)
+### 💰 Tributary.so — Recurring Payments on Solana
 
-### 🎓 Education
+> Comprehensive payment protocol on Solana for automated recurring payments. **One smart contract enabling unlimited businesses** with subscription, milestone, and pay-as-you-go models. Built MVP in under 3 weeks.
 
-**Dr.-Ing.** in Communications Engineering
-Friedrich-Alexander-Universität Erlangen-Nürnberg  
-Thesis: _Digital Communications for Low Latency and Applications for Const. Envelope Signalling_
+<p>
+  <a href="https://tributary.so"><img src="https://img.shields.io/badge/🌐_Live-tributary.so-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Tributary live"/></a>
+  <a href="https://github.com/xeroc/tributary"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Ftributary-181717?style=flat-square&logo=github&logoColor=white" alt="Tributary repo"/></a>
+  <a href="https://github.com/xeroc/tributary/blob/main/LICENSE"><img src="https://img.shields.io/github/license/xeroc/tributary?style=flat-square" alt="License"/></a>
+</p>
 
-**Dipl.-Ing.** in Electrical Engineering
-Friedrich-Alexander-Universität Erlangen-Nürnberg  
-Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
+🔗 **Surfaces:** [Live](https://tributary.so) · [Lando (Agent Invoicing)](https://lando.tributary.so) · [Allowly (Pocket Money)](https://allowly.app)
 
-### 🚀 Current Projects
+### 🤖 Polycode — Multi-Agent Software Development Automation
 
-- 🤖 **[polycode.dev](https://polycode.dev)** – Automate software development with AI-powered workflows.
-- 💰 **[tributary.so](https://tributary.so)** – Recurring payments protocol on Solana (subscriptions, milestones, pay-as-you-go)
-- 🤖 **[chaoscraft.dev](https://chaoscraft.dev)** – Pay $1, propose any change to site via AI agents
-- 💸 **[allowly.app](https://allowly.app)** – Pocket money for kids and agents
-- 🪣 **[contribute.so](https://contribute.so)** – Fundraising made simple for creators using solan
-- 🤖 **[Lando](https://lando.tributary.so)**: let agents issue invoices with a simple payment string and skills
+> CrewAI-powered multi-agent workflows for automated software development. GitHub App integration for multi-repo automation with webhook-driven workflows.
 
-### 🚀 Legacy Projects
+<p>
+  <a href="https://polycode.dev"><img src="https://img.shields.io/badge/🌐_Live-polycode.dev-181717?style=flat-square&logo=github&logoColor=white" alt="Polycode live"/></a>
+  <a href="https://github.com/xeroc/polycode"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Fpolycode-181717?style=flat-square&logo=github&logoColor=white" alt="Polycode repo"/></a>
+</p>
 
+### 💸 Allowly.app — Pocket Money for Kids & Agents
+
+> Allowance management on Solana. Pocket money for kids and AI agents alike.
+
+<p>
+  <a href="https://allowly.app"><img src="https://img.shields.io/badge/🌐_Live-allowly.app-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Allowly live"/></a>
+  <a href="https://github.com/xeroc/allowly"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Fallowly-181717?style=flat-square&logo=github&logoColor=white" alt="Allowly repo"/></a>
+</p>
+
+### 🪣 contribute.so — Fundraising Made Simple
+
+> Fundraising platform for creators using Solana. Simple, transparent, on-chain.
+
+<p>
+  <a href="https://contribute.so"><img src="https://img.shields.io/badge/🌐_Live-contribute.so-9945FF?style=flat-square&logo=solana&logoColor=white" alt="contribute.so live"/></a>
+  <a href="https://github.com/xeroc/contrib.so"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Fcontrib.so-181717?style=flat-square&logo=github&logoColor=white" alt="contribute.so repo"/></a>
+</p>
+
+---
+
+## 🚀 Legacy Projects
+
+- ⚽ [mash.fun](https://mash.fun) - scalar prediction markets for sports on Solana
 - 🔗 **[repo.trade](https://repo.trade)** – Token launch pad for GitHub repositories
 - 🍀 **[relay.md](https://relay.md)** – Share Obsidian notes with team members - sold
 - 🦋 **[LuckySwap](https://luckyswap.xyz)** – Jupiter swaps with multiplier
@@ -103,82 +139,240 @@ Thesis: _Statistical Analysis and Evaluation of MIMO radio channel measurements_
 - 📓 **piston.rocks** - Operate the main entry RPC to the Steemit Blockchain
 - 📈 **uptick.rocks** - Operate an RPC node for BitShares blockchain
 
-### 🔗 Blockchain & Web3 Expertise
+---
 
-**Blockchains Implemented/Integrated:**
+## 🏛️ Companies & Governance
 
-- **L1 Libraries:** BitShares, Steem, Hive, Peerplays, Obelisk (full-featured from serialization through SDK)
-- **DeFi:** Solana (native integration, 400ms settlement), Jupiter, Drift
-- **DEX Integration:** Birake, Lucky Swaps, Orangetulip
-- **Ecosystems:** Graphene-based chains, EOSIO, Ethereum, Bitcoin
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Period</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td><strong>ChainSquad GmbH</strong></td>
+    <td>CEO & Founder</td>
+    <td>2016 – Present</td>
+    <td>Web2/Web3 consulting, blockchain, AI, distributed systems. 26+ projects delivered.</td>
+  </tr>
+  <tr>
+    <td><strong>Juju Research Labs Inc.</strong></td>
+    <td>Founder & CEO</td>
+    <td>2024 – Present</td>
+    <td>Prediction markets, sports betting, Drift Protocol Fork. Delaware, USA.</td>
+  </tr>
+  <tr>
+    <td><strong>BlockOps GmbH</strong></td>
+    <td>Founder</td>
+    <td>2017 – Present</td>
+    <td>Joint venture for blockchain software and services.</td>
+  </tr>
+  <tr>
+    <td><strong>Tributary.so</strong></td>
+    <td>Founder</td>
+    <td>2025 – Present</td>
+    <td>Recurring payments protocol on Solana.</td>
+  </tr>
+  <tr>
+    <td><strong>Chaoscraft.dev</strong></td>
+    <td>Founder</td>
+    <td>2025 – Present</td>
+    <td>Collective AI creation experiment.</td>
+  </tr>
+  <tr>
+    <td><strong>Polycode</strong></td>
+    <td>Founder</td>
+    <td>2025 – Present</td>
+    <td>Multi-agent software development automation.</td>
+  </tr>
+  <tr>
+    <td><strong>Lucky Swaps</strong></td>
+    <td>Founder</td>
+    <td>2024 – Present</td>
+    <td>DeFi trading platform via BlockOps (16.5% equity).</td>
+  </tr>
+</table>
+
+### Foundation Board Memberships
+
+| Foundation                                     | Role                                      | Period      |
+| :--------------------------------------------- | :---------------------------------------- | :---------- |
+| **PeerPlays Blockchain Standards Association** | Board Member, CTO                         | 2017 – 2018 |
+| **Graphene Foundation**                        | Board Member                              | 2017 - 2020 |
+| **BitShares Blockchain Foundation**            | Advisor, Lead Developer (Escrow Platform) | 2017 – 2020 |
+| **Flux Capa Inc.**                             | Board Member                              | 2018 – 2023 |
+
+---
+
+## 📚 Open Source Contributions
+
+### Blockchain Infrastructure
+
+| Project                                                           | Description                                            | Language   |
+| :---------------------------------------------------------------- | :----------------------------------------------------- | :--------- |
+| [python-bitshares](https://github.com/xeroc/python-bitshares)     | Full-featured library to interface with BitShares      | Python     |
+| [python-graphenelib](https://github.com/xeroc/python-graphenelib) | Full-featured library for Graphene-based blockchains   | Python     |
+| [python-peerplays](https://github.com/xeroc/python-peerplays)     | Library to interface with Peerplays blockchain         | Python     |
+| [python-steem](https://github.com/xeroc/python-steem)             | Library to connect with STEEM blockchain               | Python     |
+| [piston / piston-cli](https://github.com/xeroc/piston)            | CLI for decentralized social media                     | Python     |
+| [soltrace](https://github.com/xeroc/soltrace)                     | Kafka/Postgres/Mongo event indexer for Solana programs | TypeScript |
+
+### DeFi & Payments
+
+| Project                                               | Description                             | Language        |
+| :---------------------------------------------------- | :-------------------------------------- | :-------------- |
+| [tributary](https://github.com/xeroc/tributary)       | Recurring payments protocol on Solana   | Rust/TypeScript |
+| [orangetulip](https://github.com/xeroc/orangetulip)   | Trade real-world assets on a DEX        | TypeScript      |
+| [stakemachine](https://github.com/xeroc/stakemachine) | Automated DEX trading                   | Python          |
+| [allowly](https://github.com/xeroc/allowly)           | Pocket money for kids and agents        | TypeScript      |
+| [lando](https://github.com/xeroc/lando)               | AI agent invoicing with payment strings | TypeScript      |
+| [contrib.so](https://github.com/xeroc/contrib.so)     | Fundraising platform on Solana          | TypeScript      |
+
+### Developer Tools & Onboarding
+
+| Project                                                       | Description                            | Language   |
+| :------------------------------------------------------------ | :------------------------------------- | :--------- |
+| [python-typeid](https://github.com/xeroc/python-typeid)       | UUID label library                     | Python     |
+| [relay.md](https://github.com/xeroc/relay-md)                 | Obsidian plugin for team collaboration | TypeScript |
+| [bitshares.eu](https://bitshares.eu)                          | BitShares ecosystem onboarding         | —          |
+| [bitshares-trezor](https://github.com/xeroc/bitshares-trezor) | BitShares on Trezor hardware wallet    | Python     |
+| [steem-trezor](https://github.com/xeroc/steem-trezor)         | Steem on Trezor hardware wallet        | Python     |
+| [tapin](https://github.com/xeroc/tapin)                       | Onboarding for Graphene-based chains   | Python     |
+| [bitsharestalk.org](https://github.com/xeroc/bitsharestalk)   | BitShares community forum              | —          |
+
+### Infrastructure Operations
+
+| Project                                               | Description                               |
+| :---------------------------------------------------- | :---------------------------------------- |
+| [piston.rocks](https://github.com/xeroc/piston.rocks) | Hive blockchain backend RPC node          |
+| [uptick.rocks](https://github.com/xeroc/uptick.rocks) | BitShares RPC node                        |
+| [streemian](https://github.com/xeroc/streemian)       | Steem blockchain voting automation (sold) |
+| [repo.trade](https://github.com/xeroc/repo.trade)     | Token launch pad for GitHub repositories  |
+
+---
+
+## ⛓️ Blockchain & Web3 Expertise
+
+**Blockchains Implemented/Integrated (16+):**
+
+<p>
+  <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  <img src="https://img.shields.io/badge/Ethereum-ETH-627EEA?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Solana-SOL-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/BitShares-BTS-4CA7E8?style=flat-square" alt="BitShares"/>
+  <img src="https://img.shields.io/badge/Steem-STEEM-1A50B2?style=flat-square" alt="Steem"/>
+  <img src="https://img.shields.io/badge/Hive-HIVE-E31337?style=flat-square" alt="Hive"/>
+  <img src="https://img.shields.io/badge/EOSIO-EOS-443F54?style=flat-square" alt="EOSIO"/>
+  <img src="https://img.shields.io/badge/Peerplays-PPY-00A4E4?style=flat-square" alt="Peerplays"/>
+</p>
+
+Additional: Obelisk, Blurt, Birake DEX, EUBX, DEEX, Daculous, Metaverse DNA, Reef, Serey, Shareberry, Exbet
 
 **Core Competencies:**
 
+- **L1 Libraries:** Full-featured blockchain libraries from serialization through SDK (BitShares, Steem, Hive, Peerplays, Obelisk)
 - **Smart Contracts:** Solana programs, prediction markets, stablecoin integration
-- **Cryptographic Protocols:** ECDSA implementations, security auditing
-- **DAO/Governance:** Decentralized organization structures
-- **Tokenomics:** Design and consulting for 10+ projects
-- **Escrow & Payments:** BitShares worker proposals, Tributary recurring payments
-- **Decentralized Social:** Steem, Hive architectures
-- **Asset Exchange:** Multi-DEX aggregation, liquidity routing
+- **Cryptographic Protocols:** ECDSA implementations, security auditing, Solana Security #2 Graduate
+- **DAO/Governance:** Decentralized organization structures, escrow platforms, committee member roles
+- **Tokenomics:** Design and consulting for 10+ projects across multiple chains
+- **DeFi:** Jupiter, Drift integration, DEX aggregation, liquidity routing, prediction markets
+- **Decentralized Social:** Steem, Hive architectures, automated voting (Streemian)
 
-### 🤖 AI & Agent Development
+---
 
-- **Large Language Models:** GPT architectures, NanoGPT implementation
-- **Multi-Agent Systems:** CrewAI workflows, automated software development
-- **MCP Integration:** Model Context Protocol for tool integration
-- **Custom Agents:** OpenClaw, context-aware AI assistants
-- **Agent Automation:** Chaoscraft (collective AI creation), Polycode (CI/PR automation)
-- **Math Foundations:** Backpropagation, transformer architectures
+## 🤖 AI & Agent Development
 
-### 🛠️ DevOps & Infrastructure (excerpt)
+| Area                    | Details                                                                  |
+| :---------------------- | :----------------------------------------------------------------------- |
+| **Multi-Agent Systems** | CrewAI workflows, automated software development (Polycode)              |
+| **MCP Integration**     | Model Context Protocol for AI tool integration                           |
+| **Custom Agents**       | OpenClaw, context-aware AI assistants                                    |
+| **Agent Automation**    | Chaoscraft (collective AI creation), Polycode (CI/PR automation)         |
+| **LLM Foundations**     | GPT architectures, NanoGPT implementation, backpropagation, transformers |
 
-- **Languages:** Python, C, C++, TypeScript, Rust
-- **Frontend:** React, Vite, Next.js, Vue.js, TailwindCSS, Bulma, CSS
-- **Backend:** Express, Python frameworks
-- **Infrastructure:** Nomad, Vault, Consul (HashiCorp stack)
-- **Automation:** Ansible, Bash scripting
-- **Databases:** PostgreSQL, MongoDB, Kafka
-- **Operations:** Event indexers, RPC nodes, GitOps
+---
 
-### 📚 Open Source Contributions
+## 🛠️ Technical Stack
 
-**Blockchain Infrastructure:**
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend & Infra</th>
+    <th>Security & Crypto</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      Python · C · C++<br>
+      TypeScript · Rust<br>
+      Bash<br><br>
+      <em>20+ years across all layers</em>
+    </td>
+    <td valign="top">
+      React · Next.js · Vue.js<br>
+      Vite · TailwindCSS · Bulma<br>
+      CSS · Three.js<br><br>
+      <em>Production SPAs & SSR</em>
+    </td>
+    <td valign="top">
+      Express · Python frameworks<br>
+      PostgreSQL · MongoDB · Kafka<br>
+      Nomad · Vault · Consul<br>
+      Ansible · Docker · GitOps<br><br>
+      <em>60+ server clusters</em>
+    </td>
+    <td valign="top">
+      ECDSA cryptography<br>
+      Solana Security #2 Graduate<br>
+      Security auditing<br>
+      Smart contract review<br><br>
+      <em>Crypto protocols since 2011</em>
+    </td>
+  </tr>
+</table>
 
-- **[python-bitshares](https://github.com/xeroc/python-bitshares)** – Full-featured BitShares library
-- **[python-graphenelib](https://github.com/xeroc/python-graphenelib)** – Graphene-based blockchain libraries
-- **[python-peerplays](https://github.com/xeroc/python-peerplays)** – Peerplays blockchain interface
-- **[python-steem](https://github.com/xeroc/python-steem)** – STEEM blockchain library
-- **[piston / piston-cli](https://github.com/xeroc/piston)** – CLI for decentralized social media
-- **[soltrace](https://github.com/xeroc/soltrace)** – Solana event indexer (Kafka/Postgres/Mongo)
+---
 
-**Developer Tools:**
+## 💼 Consultation & Tokenomics Advisory
 
-- **[python-typeid](https://github.com/xeroc/python-typeid)** – UUID label library
-- **[relay.md](https://github.com/xeroc/relay-md)** – Obsidian plugin for team collaboration
-- **[bitshares.eu](https://bitshares.eu)** – BitShares ecosystem onboarding
+Provided technical and tokenomics consulting to:
 
-**DeFi & Payments:**
+**Blockchain Companies:** BitShares-Munich, PeerPlays, Birake, Coincrete, BlockOps, Blockchain BV, Blockchain Projects BV, Flux Capa, Juju
 
-- **[tributary](https://github.com/xeroc/tributary)** – Solana recurring payments protocol
-- **[orangetulip](https://github.com/xeroc/orangetulip)** – Real-world asset DEX
-- **[stakemachine](https://github.com/xeroc/stakemachine)** – Automated DEX trading
-- **[allowly.app](https://github.com/xeroc/allowly)** – Pocket money for kids/agents
-- **[lando](https://github.com/xeroc/lando)** – AI agent invoicing
-- **[contrib.so](https://github.com/xeroc/contrib.so)** – Solana fundraising platform
+**Venture Capital & Funds:** BitKapital, OpenLedger, BunkerChain Labs, Cryptonomex, BitGate, ImpactGrid, FreedomLedger
 
-**Automation:**
+**Exits:**
 
-- **[streemian.com](https://github.com/xeroc/streemian)** – Steem voting automation
-- **[bitshares-trezor](https://github.com/xeroc/bitshares-trezor)** – Hardware wallet integration
-- **[steem-trezor](https://github.com/xeroc/steem-trezor)** – Steem Trezor signing
-- **[tapin](https://github.com/xeroc/tapin)** – Graphene chain onboarding
-- **[bitsharestalk.org](https://github.com/xeroc/bitsharestalk)** – BitShares community forum
+| Company              | Role                                                       | Outcome                    |
+| :------------------- | :--------------------------------------------------------- | :------------------------- |
+| **Steemit Inc.**     | Lead Python Developer, Advisor, Whitepaper Review          | Sold to Justin Sun (~2022) |
+| **MakerDAO**         | Advisor, Whitepaper Review                                 | Successful Exit            |
+| **Cryptonomex Inc.** | Community Manager, Technical Education Lead (~0.1% equity) | Spin-off → Steemit Exit    |
+| **Streemian.com**    | CEO, Solo-MicroSaaS                                        | Successful Exit            |
+| **relay.md**         | Founder                                                    | Sold                       |
 
-**Infrastructure:**
+---
 
-- **[piston.rocks](https://github.com/xeroc/piston.rocks)** – Hive backend RPC node
-- **[uptick.rocks](https://github.com/xeroc/uptick.rocks)** – BitShares RPC node
+## 🌍 Languages
+
+| Language   | Proficiency                                  |
+| :--------- | :------------------------------------------- |
+| 🇩🇪 German  | Native                                       |
+| 🇬🇧 English | Near-native (Scholarly exchange)             |
+| 🇫🇷 French  | Elementary (Scholarly exchange with Limoges) |
+
+---
+
+## 🎵 Beyond Code
+
+- 🎺 I ❤️ my trombone
+- 🔭 Currently building cool stuff using mostly Rust and TypeScript
+- ⛓️ Working with fast, low-latency blockchain technologies since 2011
+
+---
+
+## 🔐 Security
 
 <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
@@ -947,3 +1141,13 @@ y9YT9gE1nNM1NP2d
 ```
 
 </details>
+
+---
+
+<p align="center">
+  <em>"Engineering is the art of making what you want from what you can get." — and I've been doing it across C++, Python, Rust, and TypeScript for over two decades. ⛓️</em>
+</p>
+
+<p align="center">
+  © 2011–2026 <strong>Dr.-Ing. Fabian Schuh</strong> · <a href="https://chainsquad.com">ChainSquad GmbH</a>, Erlangen, Germany · D-U-N-S: 314085344 · <a href="https://contribute.so/github/xeroc">💖 Support</a>
+</p>
