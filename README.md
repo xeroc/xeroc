@@ -141,6 +141,14 @@
 
 ---
 
+## ⌨ Hackathon wins
+
+- **2014**: 🥈 Trezor Hackathon - [2nd place](https://blog.trezor.io/trezor-2-hackathon-finale-fc2d5cb6a8ba#05eb)
+- **2024**: Colosseum RADAR - [Honorable mention](https://solana.com/de/news/solana-radar-winners#defi-track)
+- **2025**: [Colosseum Cypherpunk - Adevar Sidetrack 10k$ win (5th place)](https://superteam.fun/earn/listing/dollar50000-in-security-audit-credits-for-solana-colosseum-hackathon)
+- **2026**: Colosseum Frontier - 🥉 [Build an Autonomous Onchain Agent using the Zerion CLI](https://superteam.fun/earn/listing/build-an-autonomous-onchain-agent-using-the-zerion-cli) [1](<https://x.com/gyan_w3b/status/2060406565627453930?s=20EAD>
+- **2026**: Colosseum Frontier - 🥇 [100xDevs Frontier Hackathon Track](https://superteam.fun/earn/listing/100xdevs-frontier-hackathon-track)
+
 ## 🏛️ Companies & Governance
 
 <table>
