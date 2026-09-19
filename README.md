@@ -86,9 +86,21 @@
 
 ## 🚀 Active Projects
 
-### 🫟 riprap.xyz - Mutual risk pool protocol on Solana
+### 🫟 riprap.xyz — Mutual Risk Pools on Solana
 
-### 🧑‍⚖️ useaccord.xyz - Schelling Point Arbitration Protocol
+> Permissionless protection pools: members fund a pool, qualifying claims are adjudicated by Accord jurors, whatever is left returns pro-rata — then the pool dissolves. No insurer, no reserves, no retained profit. Pilot: **Riprap: Blade Pool @ Breakpoint 2026**.
+
+<p>
+  <a href="https://riprap.xyz"><img src="https://img.shields.io/badge/🌐_Live-riprap.xyz-9945FF?style=flat-square&logo=solana&logoColor=white" alt="riprap live"/></a>
+</p>
+
+### 🧑‍⚖️ useaccord.xyz — Schelling Point Arbitration Protocol
+
+> General-purpose arbitration oracle on Solana, inspired by Kleros. Random stake-weighted jurors, commit-reveal voting, exponential appeals — coherence with the honest majority is the profitable strategy. Any program or wallet can file disputes via two CPI calls.
+
+<p>
+  <a href="https://useaccord.xyz"><img src="https://img.shields.io/badge/🌐_Live-useaccord.xyz-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Accord live"/></a>
+</p>
 
 ### 💰 Tributary.so — Recurring Payments on Solana
 
