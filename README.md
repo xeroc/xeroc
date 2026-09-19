@@ -51,7 +51,6 @@
 | ⛓️ **>500M Blocks Produced** | Across 16+ different blockchains including BitShares, Steem, Hive, Peerplays                                        |
 | 🏭 **3 Foundation Boards**   | PeerPlays, BitShares, Flux Capa                                                                                     |
 | 🖥️ **60+ Servers**           | HashiCorp clusters with Nomad, Consul, Vault                                                                        |
-| 🚀 **3-Week MVP**            | Built Tributary.so recurring payments platform on Solana                                                            |
 | 🎯 **Colosseum Radar**       | Interview selection (top 200/1,800+ submissions)                                                                    |
 | 🎖️ **Solana Security #2**    | Graduate                                                                                                            |
 | 📜 **D-U-N-S**               | 314085344                                                                                                           |
@@ -86,6 +85,10 @@
 ---
 
 ## 🚀 Active Projects
+
+### 🫟 riprap.xyz - Mutual risk pool protocol on Solana
+
+### 🧑‍⚖️ useaccord.xyz - Schelling Point Arbitration Protocol
 
 ### 💰 Tributary.so — Recurring Payments on Solana
 
