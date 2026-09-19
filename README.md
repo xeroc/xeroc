@@ -92,6 +92,7 @@
 
 <p>
   <a href="https://riprap.xyz"><img src="https://img.shields.io/badge/🌐_Live-riprap.xyz-9945FF?style=flat-square&logo=solana&logoColor=white" alt="riprap live"/></a>
+  <a href="https://github.com/xeroc/riprap"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Friprap-181717?style=flat-square&logo=github&logoColor=white" alt="riprap repo"/></a>
 </p>
 
 ### 🧑‍⚖️ useaccord.xyz — Schelling Point Arbitration Protocol
@@ -100,6 +101,7 @@
 
 <p>
   <a href="https://useaccord.xyz"><img src="https://img.shields.io/badge/🌐_Live-useaccord.xyz-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Accord live"/></a>
+  <a href="https://github.com/xeroc/accord"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Faccord-181717?style=flat-square&logo=github&logoColor=white" alt="accord repo"/></a>
 </p>
 
 ### 💰 Tributary.so — Recurring Payments on Solana
