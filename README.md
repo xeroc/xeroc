@@ -102,6 +102,7 @@
 <p>
   <a href="https://useaccord.xyz"><img src="https://img.shields.io/badge/🌐_Live-useaccord.xyz-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Accord live"/></a>
   <a href="https://github.com/xeroc/accord"><img src="https://img.shields.io/badge/📦_Repo-xeroc%2Faccord-181717?style=flat-square&logo=github&logoColor=white" alt="accord repo"/></a>
+  <a href="https://arxiv.org/abs/2610.20666" alt="Whitepaper"><img src="https://img.shields.io/badge/arXiv-2610.20666-b31b1b?logo=arxiv" alt="arxiv.org" /></a>
 </p>
 
 ### 💰 Tributary.so — Recurring Payments on Solana
